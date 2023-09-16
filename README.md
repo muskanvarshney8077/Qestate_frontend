@@ -2,7 +2,7 @@
 
 ## Deployment
 
-View deployed app here [Q-Estate-Frontend](muskanvarshney8077-qestate.netlify.app)
+View deployed app here [Q-Estate-Frontend](https://muskanvarshney8077-qestate.netlify.app/)
 
 ## Run Locally
 
