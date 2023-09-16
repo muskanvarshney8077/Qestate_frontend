@@ -2,14 +2,14 @@
 
 ## Deployment
 
-View deployed app here [Q-Estate-Frontend](uday-goel-q-estate-frontend.netlify.app)
+View deployed app here [Q-Estate-Frontend](muskanvarshney8077-qestate.netlify.app)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/UdayGoel2000/Uday-Goel-Q-Estate-Frontend.git
+  git clone https://github.com/muskanvarshney8077/Qestate_frontend
 ```
 
 Go to the project directory
